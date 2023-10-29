@@ -13,7 +13,6 @@
 
 ## Documentation
 
-
 ## Planned features
 
 - [ ] Plug n Play server with no back-end knowledge.
