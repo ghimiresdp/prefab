@@ -1,5 +1,6 @@
-# rigd-server (Rigged Server)
-rigd is a rust-based, pre-baked, plug-and-play server for quick prototyping.
+# prefab-server
+
+`prefab` is a rust-based, pre-baked, plug-and-play server for quick prototyping.
 
 ## Planned features
 
@@ -9,4 +10,4 @@ rigd is a rust-based, pre-baked, plug-and-play server for quick prototyping.
 - [ ] Support HTML Template / Template Inheritance for UI
 - [ ] Support Basic REST APIs for mocking
 - [ ] Pluginable (useful when adding advanced features such as visual API Editor)
-- [ ] 
+- [ ]
